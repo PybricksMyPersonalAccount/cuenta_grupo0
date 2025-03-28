@@ -9,3 +9,5 @@ hub = PrimeHub()
 
 print('¡Hola pybricks!')
 print(version)
+
+print('Esto es una línea más de prueba')
